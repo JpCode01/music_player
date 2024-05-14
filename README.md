@@ -11,12 +11,12 @@
 <br>
 
 
-
+https://github.com/JpCode01/music_player/assets/165571084/ae5d27be-cbf1-4b9d-b552-be5d7ff76966
 
 
 <br>
 
-## ✔️ Técnicas e Funcinalidades
+## ✔️ Técnicas 
 <br>
 <div style="display: inline_block">
   <img align="center" alt="jp-Python" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
