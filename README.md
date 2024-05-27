@@ -3,7 +3,7 @@
 <img loading="lazy" src="https://img.shields.io/badge/STATUS-FINALIZADO-GRAY?style=for-the-badge"/>
 </p>
 
-<p style="font-size: 15;">  Esse projeto é referente a um player de música que aceita apenas o formato mp3. Foi desenvolvido a partir dos conhecimentos gerados pela plataforma Alura.
+<p style="font-size: 15;">  Esse projeto é referente a um player de música que aceita apenas o formato mp3. Foi desenvolvido a partir dos conhecimentos gerados pela plataforma Alura e a biblioteca PyGame.
 </p>
 
 ## 🔨 Funcionalidades do projeto
@@ -16,10 +16,10 @@ https://github.com/JpCode01/music_player/assets/165571084/ae5d27be-cbf1-4b9d-b55
 
 <br>
 
-## ✔️ Técnicas 
+## ✔️ Tecnologias
 <br>
 <div style="display: inline_block">
-  <img align="center" alt="jp-Python" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="jp-Python" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
 
