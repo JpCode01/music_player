@@ -24,4 +24,4 @@ https://github.com/JpCode01/music_player/assets/165571084/ae5d27be-cbf1-4b9d-b55
 ## Autores
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/165571084?s=400&u=1ee1c679eda8112d1334f93a326df74fda32ee1d&v=4" width=115>
 
-[João Pedro Vaz Garbin](https://github.com/JpCode01).
+[João Pedro Vaz Garbin](https://github.com/JpCode01)
